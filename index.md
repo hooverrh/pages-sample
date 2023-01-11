@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Home
+title: Rachael's Homepage
 ---
 
-## Welcome everyone to my spiffy site!
+## This is a website in progress!
 
 
 #### Here are some example pages:
